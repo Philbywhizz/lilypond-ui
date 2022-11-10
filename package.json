@@ -28,7 +28,7 @@
     "@types/react-dom": "^16.8.2",
     "@types/react-js-pagination": "^3.0.2",
     "css-loader": "^2.1.1",
-    "electron": "6.0.9",
+    "electron": "18.3.7",
     "electron-cli": "^0.2.8",
     "electron-installer-dmg": "^2.0.0",
     "electron-packager": "^14",
